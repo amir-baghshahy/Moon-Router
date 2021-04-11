@@ -34,15 +34,15 @@ $router->run();
 
 
 ## Docs
-# to use need php < 7  
+### to use need php < 7  
 
-# $router = new Router();
+### $router = new Router();
 
-# $router->method(callable function or array of controller and method)
+### $router->method(callable function or array of controller and method)
 
-# at end must run router 
+### at end must run router 
 
-# $router->run();
+### $router->run();
 
 
 ## Licence
