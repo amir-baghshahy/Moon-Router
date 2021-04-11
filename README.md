@@ -35,14 +35,11 @@ $router->run();
 
 ## Docs
 ##### to use need php < 7  
-
 ##### $router = new Router();
-
 ##### $router->method(callable function or array of controller and method)
-
 ##### at end must run router 
-
 ##### $router->run();
+##### and run your project white this command  php -S localhost:8000 index.php 
 
 
 ## Licence
