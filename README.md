@@ -40,7 +40,7 @@ $router->run();
 ##### $router->method(callable function or array of controller and method)
 ##### at end must run router 
 ##### $router->run();
-##### and run your project white this command  (php -S localhost:8000 index.php) 
+##### and run your project with this command  (php -S localhost:8000 index.php) 
 
 
 ## Licence
