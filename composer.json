@@ -1,6 +1,9 @@
 {
   "name": "moon/router",
   "description": "this is simple php Router Support Controller",
+    "license": [
+    "proprietary"
+  ],
   "autoload": {
     "psr-4": {
       "src\\": "src/",
@@ -9,8 +12,8 @@
   },
   "authors": [
     {
-      "name": "amir baghshahy"
+      "name": "amir baghshahy",
+      "email": "baghshahyamyr@gmail.com"
     }
-  ],
-  "require": {}
+  ]
 }
