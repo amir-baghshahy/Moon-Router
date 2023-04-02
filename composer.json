@@ -1,0 +1,16 @@
+{
+  "name": "moon/router",
+  "description": "this is simple php Router Support Controller",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/",
+      "controller\\": "example/"
+    }
+  },
+  "authors": [
+    {
+      "name": "amir baghshahy"
+    }
+  ],
+  "require": {}
+}
